@@ -13,11 +13,10 @@ Client dApp using the following tools:
 - [TailwindCSS](https://tailwindcss.com/) for styling classes
 - [Daisy UI](https://daisyui.com/) for pre-built UI components
 - [ESLint](https://eslint.org/) for linting
-- [`@mysten/dapp-kit`](https://sdk.mystenlabs.com/dapp-kit) for connecting to
-  wallets and loading data
+- Mettre qqch pour connecter metamask, rabby, etc...
 - [pnpm](https://pnpm.io/) for package management
 
-IMPORTANT ! : To select your desired network for the dapp, create a .env file at the root of the project, add either VITE_NETWORK="testnet" for testnet or VITE_NETWORK="mainnet" for mainnet. Dapp default to testnet if no .env file is provided.
+
 
 
 ## Starting your dApp
